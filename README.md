@@ -7,8 +7,8 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
+  - [Screenshots](#screenshots)
+  - [Link](#link)
   - [Questions](#questions)
 
   ## Description
@@ -25,7 +25,7 @@
 
   ## Screenshots
 
-  ## Deployed Link
+  ## Link
 
   ## Questions
 
