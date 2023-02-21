@@ -7,7 +7,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Screenshots](#screenshots)
+  - [Screenshot](#screenshot)
   - [Link](#link)
   - [Questions](#questions)
 
@@ -23,9 +23,11 @@
   ## License
   Licensed under [MIT](https://choosealicense.com/licenses/mit/) license
 
-  ## Screenshots
+  ## Screenshot
+  ![image](https://user-images.githubusercontent.com/117120566/220218042-7188b49b-3c5d-4722-8532-8a809f34527f.png)
 
   ## Link
+  Deployed Link: https://rocky-bayou-26722.herokuapp.com/
 
   ## Questions
 
