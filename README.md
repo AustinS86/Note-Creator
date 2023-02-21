@@ -22,6 +22,7 @@
   - Click on " Get Started button".
   - In the "Title & Text" section enter your note and a description.
   - When you're done click on the the save button on the top right.
+  - If you want to create a new note then click the plus icon on the top right.
   - If you want to delete the note then click on the red trash can.
   
   ## Tools Used
