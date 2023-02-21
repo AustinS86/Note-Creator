@@ -6,25 +6,35 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [License](#license)
   - [Screenshot](#screenshot)
   - [Link](#link)
   - [Questions](#questions)
+  - [License](#license)
 
   ## Description
   An application that allows you to save & view notes in you browser.
 
   ## Installation
-  No need for installation. Just use the link provided and the browser will bring  up the application. You can use it on any browser.
+  No need for installation. Just use the link provided and the browser will bring up the application. You can use it on any browser.
 
   ## Usage 
-  Click the link provided. Then click the Get Started button and then just enter whatever notes you want and it save them for you. 
-
-  ## License
-  Licensed under [MIT](https://choosealicense.com/licenses/mit/) license
+  - Click the deployed link below.
+  - Click on " Get Started button".
+  - In the "Title & Text" section enter your note and a description.
+  - When you're done click on the the save button on the top right.
+  - If you want to delete the note then click on the red trash can.
+  
+  ## Tools Used
+  - Nodejs
+  - Express
+  - HTML
+  - CSS
+  - JavaScript
+  - Heroku
 
   ## Screenshot
   ![image](https://user-images.githubusercontent.com/117120566/220218042-7188b49b-3c5d-4722-8532-8a809f34527f.png)
+  ![image](https://user-images.githubusercontent.com/117120566/220220558-2eb0e017-45e2-49a9-b57f-facd478d2908.png)
 
   ## Link
   Deployed Link: https://rocky-bayou-26722.herokuapp.com/
@@ -36,3 +46,6 @@
   * Email: austin.stancil@yahoo.com
 
   * GitHub: [AustinS86](https://github.com/AustinS86)
+
+## License
+  Licensed under [MIT](https://choosealicense.com/licenses/mit/) license
